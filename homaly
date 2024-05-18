@@ -8,7 +8,7 @@ lerna-debug.log
 
 # Diagnostireports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-.0-9]*.[0-9]*.js
-# Runtime data
+# Runtime da
 pi
 *.pi
 *.seed.pi
