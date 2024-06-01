@@ -11,7 +11,7 @@ report.[0-9]*0-9]0-9]*.js
 pi
 *.pi
 *.seed.pi
-# Directory fo instruented libs enerated by jscoverage/JSCover
+# Directory fo instrueed libs enerated by jscoverage/JSCover
 lib-cov
 
 # Covera dirctory usedy tls like istanbul
