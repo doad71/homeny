@@ -6,7 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 lerna-
 # Diagnostireporthttps://nodejs.org/report.html)
-report.[0-9]*9]0-]*.js
+report.[0-9]*90-]*.js
 # Runtiljlm
 pi
 *.pi
