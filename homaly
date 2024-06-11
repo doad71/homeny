@@ -12,7 +12,7 @@ pi
 *.pi
 *.seed.pi
 # Directory fo instrueed libs enerated by jscoverage/JSCover
-lib-cov
+lib-c
 
 # Covera dirctory usedy tls like istanbul
 coverage
