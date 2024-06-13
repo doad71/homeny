@@ -14,7 +14,7 @@ pi
 # Directory fo instrueed libs enerated by jscoverage/JSCover
 lib-c
 
-# Covera dirctory usedy tls like istanbul
+# Covera dirctory usedy tls likstanbul
 coverage
 *.lco
 
